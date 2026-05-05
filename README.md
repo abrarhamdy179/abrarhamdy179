@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;A%20Passionate%20Self-Learner;3%2B%20years%20Learning%20CS%20Fundamentals;%20Programming-Languages%20andTechnologies;ICPC%20Participant;%20Open%20to%20collaboration%20on%20software%20and%20open-source%20projects&font=Pacifico&center=true&width=650&height=120&color=ff1493&vCenter=true&size=26"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Self-Learner;3%2B%20years%20Learning%20CS%20Fundamentals;%20Programming-Languages%20andTechnologies;ECPC%20Participant;%20Open%20to%20collaboration%20on%20software%20and%20open-source%20projects&font=Pacifico&center=true&width=650&height=120&color=ff1493&vCenter=true&size=26"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 ✔ I’m competitive programmer at **Codeforces** & **V Judge** & **HackerRank**🔥<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Ask me anything you want. If I am alive, I will answer within seconds 😉<br>
 ✔ Please have a look at my [Résumé](https://drive.google.com/file/d/17grQ9xfccqFkj4g8xzvxl7O-kzrLGetr/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!<br><br><br><br>
 
 
