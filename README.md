@@ -19,7 +19,7 @@
 ✔ I’m competitive programmer at **Codeforces** & **V Judge** & **HackerRank**🔥<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask me anything you want. If I am alive, I will answer within seconds 😉<br>
-✔ Please have a look at my [Résumé](https://drive.google.com/file/d/17grQ9xfccqFkj4g8xzvxl7O-kzrLGetr/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!<br><br><br><br>
+✔ Please have a look at my [Résumé](https://drive.google.com/file/d/1GzA1nUwBuY2qvWaJJOKVH-tsIABcWhDh/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!<br><br><br><br>
 
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
